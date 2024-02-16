@@ -1,1 +1,1 @@
-# docker-react
+# Docker Training
