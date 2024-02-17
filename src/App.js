@@ -10,7 +10,7 @@ function App() {
           I love you Gizem      </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.instagram.com/munganeren/?hl=en"
           target="_blank"
           rel="noopener noreferrer"
         >
